@@ -16,8 +16,9 @@
  - PASSSO 1 - Para baixar o projeto para sua utilização local 
 digite git clone https://github.com/edimilsonqueiroz/sistema-escolar
 - PASSO 2 - Apos baixar o projeto voçê deve criar o banco de dados
-- PASSO 3 - executar o comando composer install dentro do diretorio principal do projeto para instalar as dependencias do projeto
-- PASSO 4 - execute o comando php artisan migrate para criar as tabelas de banco de dados
-- PASSO 5 - remova os comentários das seeds e logo em seguida execute o comando php artisan db:seed para popular o seu banco com dados ficticios.
+- PASSO 3 - Logo em seguida alterar o aquivo .env com as credenciais do seu banco
+- PASSO 4 - executar o comando composer install dentro do diretorio principal do projeto para instalar as dependencias do projeto
+- PASSO 5 - execute o comando php artisan migrate para criar as tabelas de banco de dados
+- PASSO 6 - remova os comentários das seeds e logo em seguida execute o comando php artisan db:seed para popular o seu banco com dados ficticios.
 
 
