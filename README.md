@@ -13,5 +13,10 @@
 
 ### Orientações para utilizar o projeto
 
-Para baixar o projeto para sua utilização local 
+ - Para baixar o projeto para sua utilização local 
 digite git clone https://github.com/edimilsonqueiroz/sistema-escolar
+- Apos baixar o projeto voçê deve criar o banco de dados
+- executar o comando composer install para instalar as dependencias do projeto
+- depois entre no diretorio database 
+
+
