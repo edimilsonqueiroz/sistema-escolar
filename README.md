@@ -12,3 +12,6 @@
    <p> O projeto desenvolvido trata-se um mini sistema escolar onde se cadastra disciplinas, turmas, matriculas todos esses modulos possui o seu crud.</p>
 
 ### Orientações para utilizar o projeto
+
+Para baixar o projeto para sua utilização local 
+digite git clone https://github.com/edimilsonqueiroz/sistema-escolar
