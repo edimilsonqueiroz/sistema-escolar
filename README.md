@@ -9,7 +9,10 @@
 
 ## Projeto criado como Teste para Desenvolvedor Laravel
 
-   <p> O projeto desenvolvido trata-se um mini sistema escolar onde se cadastra disciplinas, turmas, matriculas todos esses modulos possui o seu crud.</p>
+   <p> O projeto desenvolvido trata-se um mini sistema escolar onde se cadastra disciplinas, turmas, matriculas todos esses modulos possui o seu crud.
+   
+   OBS. O projeto foi criado utilizando a versão 7.4 do php poderar ocorrer alguma inconsistencia caso voçê utilize versão diferente.
+   </p>
 
 ### Orientações para utilizar o projeto
 
